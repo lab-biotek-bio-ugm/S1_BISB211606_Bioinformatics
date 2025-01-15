@@ -5,16 +5,22 @@
 # ensuring that the author list and other fields remain accurate.
 
 cff-version: 1.2.0
-title: FIXME
+title: BISB211606 Bioinformatics Practicals
 message: >-
   Please cite this lesson using the information in this file
   when you refer to it in publications, and/or if you
   re-use, adapt, or expand on the content in your own
   training material.
-type: dataset
+type: course
 authors:
-  - given-names: FIXME
-    family-names: FIXME
+  - given-names: Matin
+    family-names: Nuhamunada
+  - given-names: Dwi Sendi
+    family-names: Priyono
+  - given-names: Tri Rini
+    family-names: Priyono  
+  - given-names: Nuringtyas
+    family-names: Arisuryanti
 abstract: >-
   FIXME Replace this with a short abstract describing the
   lesson, e.g. its target audience and main intended
