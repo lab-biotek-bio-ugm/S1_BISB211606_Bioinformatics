@@ -67,6 +67,12 @@ contact: 'matin_nuhamunada@ugm.ac.id' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- setup.md
+- alignment.md
+- structural.md
+- metabolomics.md
+- cad.md
+- ngs.md
 
 # Information for Learners
 learners: 

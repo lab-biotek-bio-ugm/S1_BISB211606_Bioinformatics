@@ -1,12 +1,12 @@
 ---
-title: "Computer setting – UNIX, R, and Python Fundamentals"
+title: "Primer Design & in silico Molecular Cloning (Benchling, Plasmid Design)"
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you setup your computer for bioinformatic analysis?
+- How do you write a lesson using Markdown and `{sandpaper}`?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
