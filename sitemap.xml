@@ -16,6 +16,12 @@
     <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/aio.html</loc>
   </url>
   <url>
+    <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/alignment.html</loc>
+  </url>
+  <url>
+    <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/cad.html</loc>
+  </url>
+  <url>
     <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/images.html</loc>
   </url>
   <url>
@@ -37,6 +43,12 @@
     <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/instructor/aio.html</loc>
   </url>
   <url>
+    <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/instructor/alignment.html</loc>
+  </url>
+  <url>
+    <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/instructor/cad.html</loc>
+  </url>
+  <url>
     <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/instructor/images.html</loc>
   </url>
   <url>
@@ -52,10 +64,22 @@
     <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/instructor/key-points.html</loc>
   </url>
   <url>
+    <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/instructor/metabolomics.html</loc>
+  </url>
+  <url>
+    <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/instructor/ngs.html</loc>
+  </url>
+  <url>
     <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/instructor/setup.html</loc>
+  </url>
+  <url>
+    <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/instructor/structural.html</loc>
   </url>
   <url>
     <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/instructor-notes.html</loc>
@@ -67,9 +91,21 @@
     <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/key-points.html</loc>
   </url>
   <url>
+    <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/metabolomics.html</loc>
+  </url>
+  <url>
+    <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/ngs.html</loc>
+  </url>
+  <url>
     <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/profiles.html</loc>
   </url>
   <url>
     <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/setup.html</loc>
+  </url>
+  <url>
+    <loc>https://lab-biotek-bio-ugm.github.io/S1_BISB211606_Bioinformatics/structural.html</loc>
   </url>
 </urlset>
